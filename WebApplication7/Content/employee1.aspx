@@ -8,22 +8,22 @@
 </head>
 <body>
     <form id="form1" runat="server">
-     <div align="center" style="background-color: transparent; background-image: url(F:\haritha\welcome.jpg);">
-       <div class=row>
+     <div  style="background-color: transparent; background-image: url(F:\haritha\welcome.jpg);">
+       <div class="row">
            <div class="col-md-2">
                <asp:Label ID="Labelusername" runat="server" Text="user name"></asp:Label>
            </div>
            <div class="col-md-2">
                <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
            </div>
-
+           haritha
        </div>
-         <div class=row>
-             <div class="col-md"
+         <div class="row">
+             <div class="col-md">
          </div>
 </div>
     
-        <div>
+       
         </div>
     </form>
 </body>
